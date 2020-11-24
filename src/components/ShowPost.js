@@ -4,7 +4,7 @@ const ShowPost = () => {
   const [state, setState] = React.useState([
     {
       id: 1,
-      userImg: "/images/fawad1.jpg",
+      userImg: "/images/fawad1.png",
       name: "Rick",
       time: "2h",
       text:
@@ -13,7 +13,7 @@ const ShowPost = () => {
     },
     {
       id: 2,
-      userImg: "/images/fawad2.jpg",
+      userImg: "/images/fawad2.png",
       name: "Morty",
       time: "4h",
       text:
