@@ -2,12 +2,12 @@ import React, { useState } from "react";
 
 const SideBar = () => {
   const [state, setState] = useState([
-    { id: 1, image: "/images/fawad1.jpg", name: "Flutter Development" },
-    { id: 2, image: "/images/fawad2.jpg", name: "PHP Development" },
-    { id: 3, image: "/images/fawad3.jpg", name: "React Native Development" },
-    { id: 4, image: "/images/fawad4.jpg", name: "Node JS Development" },
-    { id: 5, image: "/images/imran1.jpg", name: "Vue JS Development" },
-    { id: 6, image: "/images/imran2.jpg", name: "React Development" },
+    { id: 1, image: "/images/fawad1.jpg", name: "Events" },
+    { id: 2, image: "/images/fawad2.jpg", name: "Programs" },
+    { id: 3, image: "/images/fawad3.jpg", name: "Rick and Morty Club" },
+    { id: 4, image: "/images/fawad4.jpg", name: "Membership" },
+    { id: 5, image: "/images/imran1.jpg", name: "Something" },
+    { id: 6, image: "/images/imran2.jpg", name: "Morty" },
   ]);
   return (
     <div className="sidebar">
