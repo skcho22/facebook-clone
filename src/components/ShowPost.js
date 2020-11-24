@@ -5,7 +5,7 @@ const ShowPost = () => {
     {
       id: 1,
       userImg: "/images/fawad1.jpg",
-      name: "Shakil Khan",
+      name: "Rick",
       time: "2h",
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
@@ -15,7 +15,7 @@ const ShowPost = () => {
     {
       id: 2,
       userImg: "/images/fawad2.jpg",
-      name: "Sajjad Khan",
+      name: "Morty",
       time: "4h",
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
@@ -35,7 +35,7 @@ const ShowPost = () => {
     {
       id: 4,
       userImg: "/images/fawad4.jpg",
-      name: "David",
+      name: "Tint Rick",
       time: "2h",
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
