@@ -18,7 +18,7 @@ const ShowPost = () => {
       time: "4h",
       text:
         "Rick and  morty season 6 please.......",
-      postImg: "/images/imrankhan1.jpg",
+      postImg: "/images/imrankhan1.png",
     },
     {
       id: 3,
@@ -36,7 +36,7 @@ const ShowPost = () => {
       time: "2h",
       text:
         "rick is the smartest guy in the galaxy....",
-      postImg: "/images/imrankhanpost.jpg",
+      postImg: "/images/imrankhanpost.png",
     },
   ]);
   return (
