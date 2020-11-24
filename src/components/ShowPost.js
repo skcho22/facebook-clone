@@ -8,8 +8,7 @@ const ShowPost = () => {
       name: "Rick",
       time: "2h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
+        "Some random stuff that is suppose to say something",
       postImg: "/images/pakistan.jpg",
     },
     {
@@ -18,8 +17,7 @@ const ShowPost = () => {
       name: "Morty",
       time: "4h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
+        "Rick and  morty season 6 please.......",
       postImg: "/images/imrankhan1.jpg",
     },
     {
@@ -28,8 +26,7 @@ const ShowPost = () => {
       name: "Rahul",
       time: "2h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
+        "conspiracy theory of morty taking over rick galaxy might be right this time.....",
       postImg: "/images/imrankhan3.jpg",
     },
     {
@@ -38,8 +35,7 @@ const ShowPost = () => {
       name: "Tint Rick",
       time: "2h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
+        "rick is the smartest guy in the galaxy....",
       postImg: "/images/imrankhanpost.jpg",
     },
   ]);
